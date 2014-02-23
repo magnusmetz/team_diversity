@@ -300,6 +300,6 @@ While the research at hand needs to be seen as a first pioneer attempt, it is im
 \bibliographystyle{apacite}
 \renewcommand{\bibliographytypesize}{\small} % set font size for bibliography
 \interlinepenalty 10000 % no pagebreaks within citations
-\bibliography{/home/magnus/Dropbox/BibTeX_references/library} % defines the *.bib-file where your references are in. File needs to have the ending *.bib
+\bibliography{library} % defines the *.bib-file where your references are in. File needs to have the ending *.bib
 
 \end{document}

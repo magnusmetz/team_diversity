@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2012.12.13)  23 FEB 2014 12:16
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012/Debian) (format=xelatex 2012.12.13)  23 FEB 2014 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,65 +941,14 @@ Overfull \vbox (26.87498pt too high) has occurred while \output is active []
 [2
 
 ]
-
-LaTeX Warning: Citation `Vielfalt2006' undefined on input line 126.
-
-
-LaTeX Warning: Citation `Breuer2010' undefined on input line 126.
-
-
-LaTeX Warning: Citation `Knoppers2008' undefined on input line 127.
-
-
-LaTeX Warning: Citation `Cunningham2004' undefined on input line 127.
-
-
-LaTeX Warning: Citation `Cunningham2007a' undefined on input line 127.
-
-
-LaTeX Warning: Citation `Cunningham2007b' undefined on input line 127.
-
-
-LaTeX Warning: Citation `Timmerman2000' undefined on input line 127.
-
-
-LaTeX Warning: Citation `Waltemyer2006' undefined on input line 127.
-
-
-LaTeX Warning: Citation `Cox1997' undefined on input line 134.
-
-
-LaTeX Warning: Citation `Jackson2003' undefined on input line 134.
-
-
-LaTeX Warning: Citation `Cunningham2006' undefined on input line 134.
-
-
-LaTeX Warning: Citation `Fink2001' undefined on input line 134.
-
-
-LaTeX Warning: Citation `Siciliano1996' undefined on input line 134.
-
-
-LaTeX Warning: Citation `Tsui1999' undefined on input line 135.
-
-
 Overfull \vbox (26.87498pt too high) has occurred while \output is active []
 
 
 [1]
-
-LaTeX Warning: Citation `Anthonissen2001' undefined on input line 140.
-
-
-LaTeX Warning: Citation `Day1981' undefined on input line 140.
+Overfull \vbox (26.87498pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: Citation `Pelled1999' undefined on input line 144.
-
-
-LaTeX Warning: Citation `Jehn1999' undefined on input line 144.
-
+[2]
 LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 156.
 
@@ -1007,18 +956,7 @@ LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <12> not available
 Overfull \vbox (26.87498pt too high) has occurred while \output is active []
 
 
-[2]
-
-LaTeX Warning: Citation `Basadur2001' undefined on input line 160.
-
-
-Overfull \vbox (26.87498pt too high) has occurred while \output is active []
-
-
 [3]
-
-LaTeX Warning: Citation `Blau1977' undefined on input line 166.
-
 
 Package xcolor Warning: Incompatible color definition on input line 177.
 
@@ -1046,6 +984,14 @@ LaTeX Warning: No positions in optional float specifier.
 
 File: figure/beamer-teamsuccess.pdf Graphic file (type QTm)
 <use  "figure/beamer-teamsuccess.pdf" >
+Overfull \vbox (26.87498pt too high) has occurred while \output is active []
+
+
+[4]
+Overfull \vbox (26.87498pt too high) has occurred while \output is active []
+
+
+[5]
 
 Package xcolor Warning: Incompatible color definition on input line 253.
 
@@ -1055,14 +1001,6 @@ LaTeX Warning: No positions in optional float specifier.
 
 File: figure/beamer-indices.pdf Graphic file (type QTm)
 <use  "figure/beamer-indices.pdf" >
-Overfull \vbox (26.87498pt too high) has occurred while \output is active []
-
-
-[4]
-Overfull \vbox (26.87498pt too high) has occurred while \output is active []
-
-
-[5]
 Overfull \vbox (26.87498pt too high) has occurred while \output is active []
 
 
@@ -1118,19 +1056,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 304.
  (./team_diversity.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 304.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 304.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 304.
  ) 
 Here is how much of TeX's memory you used:
- 18786 strings out of 495668
- 324983 string characters out of 3186664
- 420836 words of memory out of 3000000
- 21621 multiletter control sequences out of 15000+200000
+ 18798 strings out of 495668
+ 325176 string characters out of 3186664
+ 418836 words of memory out of 3000000
+ 21633 multiletter control sequences out of 15000+200000
  11345 words of font info for 39 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,10n,74p,1589b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,11n,74p,1589b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on team_diversity.pdf (14 pages).
