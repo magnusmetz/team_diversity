@@ -1,0 +1,6 @@
+team_diversity
+==============
+A short paper typeset with LaTeX, R, and knitr during my Master's degree at the German Sport University Cologne.
+```{r}
+sessionInfo()
+```
