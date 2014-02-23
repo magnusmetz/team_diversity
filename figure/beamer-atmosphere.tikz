@@ -1,4 +1,4 @@
-% Created by tikzDevice version 0.7.0 on 2014-02-23 12:13:50
+% Created by tikzDevice version 0.7.0 on 2014-02-23 18:22:57
 % !TEX encoding = UTF-8 Unicode
 \documentclass[	
 	12pt, % defining font size
@@ -30,6 +30,10 @@
     headsepline, % put a line under the heading  
 ]{scrpage2}
 \usepackage{tikz}
+\usepackage{booktabs} % needed for table
+\usepackage{multirow} % used for tables
+\usepackage{tabularx}
+\usepackage[bf, nooneline, footnotesize]{caption} % define caption style
 \usepackage{subfig}
 \usepackage[paper=a4paper,top=20mm,bottom=30mm,left=30mm,right=20mm,footskip=10mm]{geometry} % defining text boarders to define geometry of the article according to dvs-standards
 \usepackage{import} % to be able to use the \import command (use in combination of svg graphics produced mainly with inkscape)
